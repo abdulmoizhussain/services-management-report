@@ -1,0 +1,27 @@
+*What to write in Abstract :
+abstract is only for writing your own things. (purpose, scope, findings)
+
+*Page18: the system has provided.
+*give figure explanations
+*add SS of admin panel under the headings...
+* Description then Code.
+*Screenshots in test Cases.
+* Literature Review:
+IEEE style (Numbering)
+* Database:
+dataflow diagram.
+*Other Diagrams & their Sequence:
+Activity Diagram, Big Picture, Sequence Diagram, UML Diagram, Block Diagram.
+***
+Big picture,
+Modules,
+Use Cases,
+Block Diagrams,
+Code,
+Screenshots
+*Ending:
+1. Conclusion
+2. Limitations
+3. Future Work
+
+
